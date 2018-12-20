@@ -1,2 +1,2 @@
 # Betfair-Downloader
-Selenium Script to download all from betfair
+Selenium Script to download historic odds data from betfair
